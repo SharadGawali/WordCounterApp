@@ -1,0 +1,15 @@
+{
+  "main.css": "/WordCounterApp/static/css/main.efc17e7e.chunk.css",
+  "main.js": "/WordCounterApp/static/js/main.671f95ff.chunk.js",
+  "main.js.map": "/WordCounterApp/static/js/main.671f95ff.chunk.js.map",
+  "static/js/1.3bc8ac50.chunk.js": "/WordCounterApp/static/js/1.3bc8ac50.chunk.js",
+  "static/js/1.3bc8ac50.chunk.js.map": "/WordCounterApp/static/js/1.3bc8ac50.chunk.js.map",
+  "static/js/2.faf732f1.chunk.js": "/WordCounterApp/static/js/2.faf732f1.chunk.js",
+  "static/js/2.faf732f1.chunk.js.map": "/WordCounterApp/static/js/2.faf732f1.chunk.js.map",
+  "runtime~main.js": "/WordCounterApp/static/js/runtime~main.2bf06c17.js",
+  "runtime~main.js.map": "/WordCounterApp/static/js/runtime~main.2bf06c17.js.map",
+  "static/css/main.efc17e7e.chunk.css.map": "/WordCounterApp/static/css/main.efc17e7e.chunk.css.map",
+  "index.html": "/WordCounterApp/index.html",
+  "precache-manifest.929e5779dea3ef9d6640e6fe140e029d.js": "/WordCounterApp/precache-manifest.929e5779dea3ef9d6640e6fe140e029d.js",
+  "service-worker.js": "/WordCounterApp/service-worker.js"
+}
